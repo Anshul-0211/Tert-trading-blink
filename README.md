@@ -1,2 +1,2 @@
 # Tert-trading-blink
-This is blink created for you to trade.
+This is a blink created for you to trade.
